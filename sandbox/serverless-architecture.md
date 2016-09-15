@@ -1,7 +1,9 @@
 # Serverless Architecture
 
-## Serverless Architectureとは
+## Serverless とは
 
+1. BaaS(Backend as Service)
+1. FaaS(Functional as Service)
 
 ## Serverless Architecture を実現できるクラウドサービス
 
@@ -44,4 +46,5 @@
 
 ## 参考資料
 
+* [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
 * [[レポート] サーバーレスで構築する、マイクロサービスの未来形 AWSSummit]( http://dev.classmethod.jp/cloud/aws/aws-summit-tokyo-2016-devcon-ha1420/)
